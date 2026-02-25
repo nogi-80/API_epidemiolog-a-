@@ -1,0 +1,6 @@
+﻿.env
+*.env
+token_blacklist.txt
+out/
+__pycache__/
+*.pyc
